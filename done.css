@@ -8,3 +8,8 @@ h1:hover{
     background-color: darkred;
     color: white;
 }
+body:hover h1{
+    backgrouns-color:red;
+    color:white;
+    transform: translateX(100%)
+}
