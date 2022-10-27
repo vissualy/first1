@@ -9,7 +9,10 @@ h1:hover{
     color: white;
 }
 body:hover h1{
-    backgrouns-color:red;
+    background-color:red;
     color:white;
     transform: translateX(100%)
+}
+h1:hover body{
+    background-color: brown;
 }
