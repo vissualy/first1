@@ -15,3 +15,4 @@ elif user != answer:
     print('lost')
     bet2 = user1 / 2
     print(f'- {bet2}')
+    print('thanks for playing')
